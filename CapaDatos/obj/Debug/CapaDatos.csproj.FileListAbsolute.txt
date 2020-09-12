@@ -1,0 +1,22 @@
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\bin\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.dll
+E:\TUT\PROYECTOS\CRUD_NCAPASSQL\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD 3 CAPAS\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD 3 CAPAS\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD 3 CAPAS\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD 3 CAPAS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD 3 CAPAS\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyectos\C#\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base-master\CRUD 3 CAPAS\CapaDatos\obj\Debug\CapaDatos.pdb
